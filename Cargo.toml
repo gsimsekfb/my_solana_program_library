@@ -1,0 +1,37 @@
+[package]
+name = "mspl" # my_solana_program_library 
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+## todo
+##
+# # All workspace members should inherit these keys for package declarations.
+# [workspace.package]
+# authors = ["x comp <opensource@x.com>"]
+# edition = "2021"
+# homepage = ""
+# license = "Apache-2.0"
+# publish = false
+# repository = ""
+# rust-version = "1.72.1"
+
+[dependencies]
+solana-program = "1"
+
+[workspace]
+members = [
+  # "src/todo",
+]
+
+# https://doc.rust-lang.org/nightly/cargo/reference/workspaces.html
+[workspace.dependencies]
+
+# # Using features (aka conditional compilation with cfg)
+# [features]
+# foo = [] # feature has no explicit dependencies
+
+## examples/hello.rs works with `cargo r --example hello` without this section
+# [[example]]
+# name = "hello"
