@@ -39,7 +39,7 @@ Token balance	0
 ```
 
 
-### 3. Mint 500 instance of MyToken - all owned by user1
+### 3. Mint 500 instances of MyToken - all owned by user1
 ```
 solana gsimsek$ spl-token mint 8RPk9U6x3Nvc5M3yyvfMzT3iofztgT4Rry7r4Cgi8woo 500  
 Minting 500 tokens  
