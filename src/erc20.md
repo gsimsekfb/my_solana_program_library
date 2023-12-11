@@ -15,12 +15,14 @@ Decimals:  9
 
 Signature: 4HeTaaNRkd6E9dDWfhPpL2rXUpsfuME5kjhcLFpgiy3wDJGDSAGqxDYR7MGW56MdH2cARvFoubUNBXTQz2zDSeyY
 ``` 
-// Comments: 
-- Newly created Token: 8RPk9U6x3Nvc5M3yyvfMzT3iofztgT4Rry7r4Cgi8woo  
-https://explorer.solana.com/address/8RPk9U6x3Nvc5M3yyvfMzT3iofztgT4Rry7r4Cgi8woo?cluster=devnet  
-- Mint Authority is user1   
-7GDXzkmtqNG2BZmesUyv2qrbRoovv71TApd1bWSsZAuc   
 
+// Newly created Token: 8RPk9U6x3Nvc5M3yyvfMzT3iofztgT4Rry7r4Cgi8woo  
+https://explorer.solana.com/address/8RPk9U6x3Nvc5M3yyvfMzT3iofztgT4Rry7r4Cgi8woo?cluster=devnet  
+```
+Current Supply	0
+Mint Authority	7GDXzkmtqNG2BZmesUyv2qrbRoovv71TApd1bWSsZAuc //  user1  
+Decimals  9
+```
 
 ### 2. Create user1's associated token account for token MyToken
 ```
@@ -35,7 +37,7 @@ https://explorer.solana.com/address/CZgEVtGH3og53bMDjpVnkcHE4rZsTh5Th3WKChqWKpr9
 Address	        CZgEVtGH3og53bMDjpVnkcHE4rZsTh5Th3WKChqWKpr9  
 Mint            8RPk9U6x3Nvc5M3yyvfMzT3iofztgT4Rry7r4Cgi8woo  
 Owner           7GDXzkmtqNG2BZmesUyv2qrbRoovv71TApd1bWSsZAuc  
-Token balance	0  
+Token balance	 0  
 ```
 
 
