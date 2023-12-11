@@ -29,10 +29,10 @@ Creating account CZgEVtGH3og53bMDjpVnkcHE4rZsTh5Th3WKChqWKpr9
 
 Signature: 2ECvYmSG9yEdKStKas4N6ZdpARW9Mx1yURJaspbwnXkGSeMMqaheWAsSHpEnyMBb2VynFXyj2GxKQPFPaRWc163C
 ``` 
-// user1's Associated Token Account for token MyToken is CZgEVtGH3og53bMDjpVnkcHE4rZsTh5Th3WKChqWKpr  
+// user1's Associated Token Account for token MyToken is CZgEVtGH3og53bMDjpVnkcHE4rZsTh5Th3WKChqWKpr9  
 https://explorer.solana.com/address/CZgEVtGH3og53bMDjpVnkcHE4rZsTh5Th3WKChqWKpr9?cluster=devnet  
 ```
-Address	        CZgEVtGH3og53bMDjpVnkcHE4rZsTh5Th3WKChqWKpr  
+Address	        CZgEVtGH3og53bMDjpVnkcHE4rZsTh5Th3WKChqWKpr9  
 Mint            8RPk9U6x3Nvc5M3yyvfMzT3iofztgT4Rry7r4Cgi8woo  
 Owner           7GDXzkmtqNG2BZmesUyv2qrbRoovv71TApd1bWSsZAuc  
 Token balance	0  
